@@ -5,4 +5,3 @@ create table crime_status
     crime_tpye varchar(16),
     status_type char(2),
     case_number int
-)
